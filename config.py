@@ -1,0 +1,6 @@
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = ''
+MYSQL_DATABASE = ''
+MYSQL_HOST = 'localhost'
+AUTH_USERNAME = ''
+AUTH_PASSWORD = ''
